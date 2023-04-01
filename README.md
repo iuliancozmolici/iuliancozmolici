@@ -20,7 +20,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuliancozmolici&theme=dark&border_radius=10" />
 
 <!-- github stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alexenon&show_icons=true&theme=github_dark&line_height=30&border_radius=10&hide=stars" />
+<img src="https://github-readme-stats.vercel.app/api?username=iuliancozmolici&show_icons=true&theme=github_dark&line_height=30&border_radius=10&hide=stars" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
