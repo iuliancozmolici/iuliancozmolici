@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Iulian</h1>
-<h3 align="left">A beginner Front-End web developer</h3>
+<h3 align="left">A Front-End web developer</h3>
 
 - 🌱 I’m currently learning **react**
 
